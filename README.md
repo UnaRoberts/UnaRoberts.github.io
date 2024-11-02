@@ -39,4 +39,12 @@ You can play rock paper scissors against the computer in this game, made by foll
 ![Win RPS](https://github.com/user-attachments/assets/9a648dd3-26a6-47c2-80a2-155705c28ad8)
 
 
-## Project 4:
+## Project 4: Tip Calculator
+
+This is the first tip calculator that I built. 
+
+![Opening screen of Tip calculator](https://github.com/user-attachments/assets/b7c60ea5-2569-4e9b-8874-2a003c48db8b)
+
+![Second screen of tip calculator](https://github.com/user-attachments/assets/bd7d6704-0ef7-46a6-a735-5714bd989148)
+
+![Third screen of Tip Calculator](https://github.com/user-attachments/assets/fefc3408-312e-4f5a-be99-aead5d5ddf0a)
