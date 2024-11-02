@@ -13,7 +13,7 @@ In "Forest Adventure" you are a cat, journeying through the four seasonal forest
 ![Death Screen](https://github.com/user-attachments/assets/c1977bf8-8ff5-44dd-8001-aa98f6eccf4b)
 
 Github link: 
-([https://github.com/UnaRoberts/adventuregame.git])
+[(https://github.com/UnaRoberts/adventuregame.git)]
 
 
 ## Project 2: Dice Rolling Game
@@ -27,5 +27,16 @@ Github link:
 
 ![Winning screen for dice game](https://github.com/user-attachments/assets/9ebafd8e-8cdb-470b-9379-38232587e103)
 
-## Project 3: 
+## Project 3: Rock paper Scissors
+You can play rock paper scissors against the computer in this game, made by following an in class tutorial. 
+
+![opening screen for RPS](https://github.com/user-attachments/assets/0b226403-a043-416b-bd9f-c7fc89da3694)
+
+![Tied RPS](https://github.com/user-attachments/assets/d17f6b28-8b30-476c-b6f1-12658b33d0bd)
+
+![Lose RPS](https://github.com/user-attachments/assets/1a1eecf6-90d2-4349-acc0-ad78ef025a8b)
+
+![Win RPS](https://github.com/user-attachments/assets/9a648dd3-26a6-47c2-80a2-155705c28ad8)
+
+
 ## Project 4:
