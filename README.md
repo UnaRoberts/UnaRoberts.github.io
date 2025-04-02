@@ -2,8 +2,9 @@
 ## Project 1: Forest Adventure 
 In "Forest Adventure" you are a cat, journeying through the four seasonal forests trying to avoid death and find your friends. 
 
-[Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Markdown](https://www.markdownguide.org/basic-syntax/)
 <https://www.markdownguide.org>
+
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
 ![Opening Screen for Forest Adventure](https://github.com/user-attachments/assets/6a5e718a-9fe6-4bd2-a52c-5c2b96a30ff7)
@@ -17,7 +18,7 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best sea
 ![Death Screen](https://github.com/user-attachments/assets/c1977bf8-8ff5-44dd-8001-aa98f6eccf4b)
 
 Github link: 
-[Github Link] (https://github.com/UnaRoberts/adventuregame.git)
+[Adventure Game](https://github.com/UnaRoberts/adventuregame.git)
 
 
 ## Project 2: Dice Rolling Game
