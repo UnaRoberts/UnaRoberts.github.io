@@ -11,7 +11,7 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best sea
 
 ![Choice between Pumpkin patch and Shack](https://github.com/user-attachments/assets/e8b26d32-2e80-450b-8073-c8206bb024fe)
 
-![Snail(https://github.com/user-attachments/assets/386f4a4b-2404-408a-812c-5b78c11eeb9a)
+![Snail](https://github.com/user-attachments/assets/386f4a4b-2404-408a-812c-5b78c11eeb9a)
 
 ![Crocodile Death Scene](https://github.com/user-attachments/assets/0e53f3dd-2af7-4392-85e6-13def546c34c)
 
