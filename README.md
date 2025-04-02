@@ -4,6 +4,7 @@ In "Forest Adventure" you are a cat, journeying through the four seasonal forest
 
 [Markdown] (https://www.markdownguide.org/basic-syntax/)
 <https://www.markdownguide.org>
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
 ![Opening Screen for Forest Adventure](https://github.com/user-attachments/assets/6a5e718a-9fe6-4bd2-a52c-5c2b96a30ff7)
 
