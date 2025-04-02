@@ -13,7 +13,7 @@ In "Forest Adventure" you are a cat, journeying through the four seasonal forest
 ![Death Screen](https://github.com/user-attachments/assets/c1977bf8-8ff5-44dd-8001-aa98f6eccf4b)
 
 Github link: 
-[(https://github.com/UnaRoberts/adventuregame.git)]
+[Github Link] (https://github.com/UnaRoberts/adventuregame.git)
 
 
 ## Project 2: Dice Rolling Game
