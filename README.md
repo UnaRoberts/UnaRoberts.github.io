@@ -2,6 +2,8 @@
 ## Project 1: Forest Adventure 
 In "Forest Adventure" you are a cat, journeying through the four seasonal forests trying to avoid death and find your friends. 
 
+[Markdown] (https://www.markdownguide.org/basic-syntax/)
+
 ![Opening Screen for Forest Adventure](https://github.com/user-attachments/assets/6a5e718a-9fe6-4bd2-a52c-5c2b96a30ff7)
 
 ![Choice between Pumpkin patch and Shack](https://github.com/user-attachments/assets/e8b26d32-2e80-450b-8073-c8206bb024fe)
