@@ -3,20 +3,29 @@
 ### Character in Processing
 I created a dog character using the coding language Processing. 
 It can be found [here](https://github.com/UnaRoberts/DoginProcessing). 
+![Dog](https://github.com/user-attachments/assets/7e315641-10fa-4e1c-95d2-c2abef0e6905)
+
 
 ### Data Visualization
 During class we created data visualization using Artificial Intelligence. I used Chatgpt to create a visualization of the electrical vehicle population growth over the last month. It can be found [here](https://github.com/UnaRoberts/DataVisualization). 
+![ElectricalVehicleScreenshot](https://github.com/user-attachments/assets/51641f2e-a8f7-40c9-86f6-ab57e9e434ed)
+
 
 ### Composition Creator
 We also created composition creators that geenrate random shapes and images into one larger compsotion. I included images of the nostalgic telletubbies in mine. It can be found [here](https://github.com/UnaRoberts/Composition-Creator). 
+![Telletubbies Composition](https://github.com/user-attachments/assets/6be11542-eb5c-4348-862b-dcbf800a0c0a)
 
 
 ### Confetti Project
  I followed The Coding Train's ["Creative Coding for Beginners"](https://www.youtube.com/watch?v=4JzDttgdILQ&t=883s) tutorial for Processing. It finished off with the Confetti Project, which can be found [here](https://github.com/UnaRoberts/Confetti-Project). 
+![Confetti](https://github.com/user-attachments/assets/933629c3-7195-4d1f-87f1-a28b30def2be)
 
 
 ### Computational Vocabulary
-I created a website explaining Computational Thinking in Animation, something I find very interesting. The website can be found [here](file:///C:/Users/unaor/OneDrive/Desktop/Code%20class/Computational_Thinking/Computational_Thinking.html), and the github page is [here](https://github.com/UnaRoberts/Computational-Vocabulary). 
+I created a website explaining Computational Thinking in Animation, something I find very interesting. The github page is [here](https://github.com/UnaRoberts/Computational-Vocabulary). 
+![Website Image 1](https://github.com/user-attachments/assets/d75cdb06-4793-4f6d-8b13-2763e9cb5b19)
+![Website Image 2](https://github.com/user-attachments/assets/978bf224-6cdd-44a7-8af0-ffaee483cabf)
+
 
 ### Data, Information, and Knowledge
 
@@ -32,8 +41,6 @@ I created a website explaining Computational Thinking in Animation, something I 
 ### Project 1: Forest Adventure 
 In "Forest Adventure" you are a cat, journeying through the four seasonal forests trying to avoid death and find your friends. 
 
-[Markdown](https://www.markdownguide.org/basic-syntax/)
-<https://www.markdownguide.org>
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
