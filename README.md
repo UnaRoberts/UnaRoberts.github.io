@@ -28,7 +28,10 @@ I created a website explaining Computational Thinking in Animation, something I 
 
 
 ### Data, Information, and Knowledge
-
+Using ChatGPT, I created a data visualization for the popularity of different animation studios, using Google search trends. 
+This project can be found [here](https://github.com/UnaRoberts/Data-Information-and-Knowledge). 
+![Webpage 1](https://github.com/user-attachments/assets/820b72e9-2565-4fb8-aefe-40c0b8d4468b)
+![Webpage 2](https://github.com/user-attachments/assets/f3d3ec41-d2db-4d6a-9455-afed73e372b8)
 
 
 
