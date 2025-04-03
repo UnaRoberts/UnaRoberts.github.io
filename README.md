@@ -1,6 +1,6 @@
 # UnaRoberts.github.io
 ## Code
-###Character in Processing
+### Character in Processing
 I created a dog character using the coding language Processing. 
 It can be found [here](https://github.com/UnaRoberts/DoginProcessing). 
 
