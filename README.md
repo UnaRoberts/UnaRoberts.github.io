@@ -4,6 +4,25 @@
 I created a dog character using the coding language Processing. 
 It can be found [here](https://github.com/UnaRoberts/DoginProcessing). 
 
+### Data Visualization
+During class we created data visualization using Artificial Intelligence. I used Chatgpt to create a visualization of the electrical vehicle population growth over the last month. It can be found [here](https://github.com/UnaRoberts/DataVisualization). 
+
+### Composition Creator
+We also created composition creators that geenrate random shapes and images into one larger compsotion. I included images of the nostalgic telletubbies in mine. It can be found [here](https://github.com/UnaRoberts/Composition-Creator). 
+
+
+### Confetti Project
+ I followed The Coding Train's ["Creative Coding for Beginners"](https://www.youtube.com/watch?v=4JzDttgdILQ&t=883s) tutorial for Processing. It finished off with the Confetti Project, which can be found [here](https://github.com/UnaRoberts/Confetti-Project). 
+
+
+### Computational Vocabulary
+I created a website explaining Computational Thinking in Animation, something I find very interesting. The website can be found [here](file:///C:/Users/unaor/OneDrive/Desktop/Code%20class/Computational_Thinking/Computational_Thinking.html), and the github page is [here](https://github.com/UnaRoberts/Computational-Vocabulary). 
+
+### Data, Information, and Knowledge
+
+
+
+
 
 
 
