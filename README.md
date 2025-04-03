@@ -1,5 +1,16 @@
 # UnaRoberts.github.io
-## Project 1: Forest Adventure 
+## Code
+###Character in Processing
+I created a dog character using the coding language Processing. 
+It can be found [here](https://github.com/UnaRoberts/DoginProcessing). 
+
+
+
+
+
+
+## Programming 1
+### Project 1: Forest Adventure 
 In "Forest Adventure" you are a cat, journeying through the four seasonal forests trying to avoid death and find your friends. 
 
 [Markdown](https://www.markdownguide.org/basic-syntax/)
@@ -21,7 +32,7 @@ Github link:
 [Adventure Game](https://github.com/UnaRoberts/adventuregame.git)
 
 
-## Project 2: Dice Rolling Game
+### Project 2: Dice Rolling Game
 "Dice Rolling Game" was created following a tutorial from my Proogramming class. You guess if a roll on the dcie will be high or low, getting points when you are correct. 
 
 ![Opening Screen for dice game](https://github.com/user-attachments/assets/c250d293-e944-4211-b4d3-e6a4bd3a8c57)
@@ -32,7 +43,7 @@ Github link:
 
 ![Winning screen for dice game](https://github.com/user-attachments/assets/9ebafd8e-8cdb-470b-9379-38232587e103)
 
-## Project 3: Rock paper Scissors
+### Project 3: Rock paper Scissors
 You can play rock paper scissors against the computer in this game, made by following an in class tutorial. 
 
 ![opening screen for RPS](https://github.com/user-attachments/assets/0b226403-a043-416b-bd9f-c7fc89da3694)
@@ -44,7 +55,7 @@ You can play rock paper scissors against the computer in this game, made by foll
 ![Win RPS](https://github.com/user-attachments/assets/9a648dd3-26a6-47c2-80a2-155705c28ad8)
 
 
-## Project 4: Tip Calculator
+### Project 4: Tip Calculator
 
 This is the first tip calculator that I built. 
 
