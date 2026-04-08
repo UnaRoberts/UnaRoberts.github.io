@@ -9,8 +9,29 @@ Any additional information about your work you want to include.
 Additional information can include technical details, UML, unique ways you solved the challenge, etc. This is important - the details you add will impact your grade.
 
 ### Craft Application
+The Craft Application is a 'topic agnostic' system that can be used to craft anything, through the use of xml files. This version is able to craft Chamomile and Sleepy Tea. The user is asked for their name at the start and can veiw recipes, craft items, view credits and exit the game. Their inventory and amount of money is displayed at the top of the screen. 
+
+
+<img width="565" height="168" alt="CraftingSystem1" src="https://github.com/user-attachments/assets/dac6df76-a9f6-4d2d-901d-2c34ba14345c" />
+
+<img width="506" height="427" alt="CraftingSystem2" src="https://github.com/user-attachments/assets/2e39280d-f050-4aea-871c-c2d147860080" />
+
+<img width="646" height="124" alt="CraftingSystem3" src="https://github.com/user-attachments/assets/547f4879-e770-459f-aa75-cd54fa8c40b3" />
+
+<img width="624" height="208" alt="CraftingSystem4" src="https://github.com/user-attachments/assets/1c8b4958-da39-4536-b720-0e01982ef4eb" />
+
+<img width="546" height="122" alt="CraftingSystem5" src="https://github.com/user-attachments/assets/3a58ae28-79ff-4ad6-a5af-4e3f95698248" />
+
+<img width="498" height="342" alt="CraftingSystem6" src="https://github.com/user-attachments/assets/ff510960-8b16-4d02-bbf2-3dbb79c66473" />
+
+<img width="1080" height="506" alt="CraftingSystemUML" src="https://github.com/user-attachments/assets/815a5cb3-b143-4e2c-bfff-abd7e27d30ab" />
+
+
+
 
 ### Creatures Application
+
+
 ### API Application
 ### Final Project - Farm Simulator
 ### Wordle
