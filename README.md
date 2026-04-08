@@ -8,6 +8,37 @@ Description (brief general description of the project)
 Any additional information about your work you want to include.
 Additional information can include technical details, UML, unique ways you solved the challenge, etc. This is important - the details you add will impact your grade.
 
+
+### API Application
+### Final Project - Farm Simulator
+### Wordle
+### Boggle
+
+
+### Creatures Application
+The Creature Application allows the user to travel to different locations and view creatures, their elemtnal types, their strength level and their actions in each location. 
+
+Not only are there creatures in each location, but using derived classes there are also special creatures in each location that you can interact with - a dragon, a unicorn and a mouse. 
+
+<img width="1170" height="614" alt="creatures01" src="https://github.com/user-attachments/assets/c75722fd-0836-4186-a49c-6fd07230edab" />
+
+<img width="1173" height="611" alt="creatures02" src="https://github.com/user-attachments/assets/40b6bd91-7026-495d-b628-840d80b59b4a" />
+
+<img width="1173" height="618" alt="creatures03" src="https://github.com/user-attachments/assets/84d661c5-e87e-4dd2-9980-a88c2b1641e1" />
+
+<img width="1176" height="618" alt="creatures04" src="https://github.com/user-attachments/assets/b90007a9-996b-4084-8a39-b3d4ec821655" />
+
+<img width="1173" height="614" alt="creatures05" src="https://github.com/user-attachments/assets/608f0f41-7051-4ee5-9c04-984428ca6bb8" />
+
+<img width="1179" height="612" alt="creatures06" src="https://github.com/user-attachments/assets/5b4985b5-7713-4479-8b09-7886b88f3e0c" />
+
+<img width="1175" height="616" alt="creatures07" src="https://github.com/user-attachments/assets/a17f8775-5902-467b-b592-34109c0f5032" />
+
+<img width="499" height="264" alt="Creatures08" src="https://github.com/user-attachments/assets/9461b809-0f99-43c7-9b49-1fa0f5e17fcd" />
+
+
+
+
 ### Craft Application
 The Craft Application is a 'topic agnostic' system that can be used to craft anything, through the use of xml files. This version is able to craft Chamomile and Sleepy Tea. The user is asked for their name at the start and can veiw recipes, craft items, view credits and exit the game. Their inventory and amount of money is displayed at the top of the screen. 
 
@@ -25,17 +56,6 @@ The Craft Application is a 'topic agnostic' system that can be used to craft any
 <img width="498" height="342" alt="CraftingSystem6" src="https://github.com/user-attachments/assets/ff510960-8b16-4d02-bbf2-3dbb79c66473" />
 
 <img width="1080" height="506" alt="CraftingSystemUML" src="https://github.com/user-attachments/assets/815a5cb3-b143-4e2c-bfff-abd7e27d30ab" />
-
-
-
-
-### Creatures Application
-
-
-### API Application
-### Final Project - Farm Simulator
-### Wordle
-### Boggle
 
 
 
