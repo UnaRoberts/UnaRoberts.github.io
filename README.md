@@ -12,7 +12,35 @@ Additional information can include technical details, UML, unique ways you solve
 ### API Application
 ### Final Project - Farm Simulator
 ### Wordle
+
+
+In class we recreated the functionality of the game 'Wordle'. The player types in a five letter word and the it is checked against a list of common five letter words and the randomly selected word that the player is trying to find. According to this check, the word the player typed appears on the screen with each letter having a background to match the accuracy fo the letter: gray for a letter that is not in the word, yellow for a letter that is in the word but is in the wrong position, and green for a letter that is in the word and is in the correct location. The player gets six tries to guess the word, represented by the grid on the screen. 
+
+<img width="568" height="790" alt="Wordle01" src="https://github.com/user-attachments/assets/47bea972-83ff-471a-9cdc-0891414fbc5b" />
+
+<img width="572" height="803" alt="Wordle02" src="https://github.com/user-attachments/assets/a5ad278f-9e7b-4323-9b4f-654e8b417d57" />
+
+<img width="566" height="791" alt="Wordle03" src="https://github.com/user-attachments/assets/7be6a6fb-e2e3-40a1-a66e-b5f0008a4a53" />
+
+<img width="570" height="797" alt="Wordle04" src="https://github.com/user-attachments/assets/f82d43b6-d466-4f13-935b-d1cb17cf7e44" />
+
+
+
 ### Boggle
+In class we recreated the functionality of the online version of the game 'Boggle'. A grid of letters appears ont he screen when the game starts. The player types in a word they see in the grid and they hit the submit button. The word is checked against the list of words that can be found in the grid and a pop up tells the player if the word will win them a point or not. If it does, a pooint is added to their score and the word is added to the list of found words. If it is not, the player can try again. 
+
+
+<img width="1823" height="952" alt="Boggle01" src="https://github.com/user-attachments/assets/f79ed27e-6060-444f-9d32-4f17cbb79b9d" />
+
+<img width="1864" height="955" alt="Boggle02" src="https://github.com/user-attachments/assets/f2d3a800-39c4-440e-816a-59c890401e48" />
+
+<img width="1839" height="891" alt="Boggle03" src="https://github.com/user-attachments/assets/4b1a32ac-841d-4e90-a5a6-b17e1ca3e49d" />
+
+<img width="1865" height="974" alt="Boggle04" src="https://github.com/user-attachments/assets/3297089c-b7a3-488f-b5ea-8a913190dd0b" />
+
+<img width="1868" height="970" alt="Boggle05" src="https://github.com/user-attachments/assets/da8873a4-8952-4507-9d55-368bd636d74f" />
+
+
 
 
 ### Creatures Application
