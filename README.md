@@ -48,6 +48,23 @@ The Creature Application allows the user to travel to different locations and vi
 
 Not only are there creatures in each location, but using derived classes there are also special creatures in each location that you can interact with - a dragon, a unicorn and a mouse. 
 
+<img width="580" height="304" alt="creatures01 copy" src="https://github.com/user-attachments/assets/efb0d87d-048c-4c18-b464-303b3d75effb" />
+
+<img width="535" height="279" alt="creatures02 copy" src="https://github.com/user-attachments/assets/6f24ee0f-01fe-47cb-9eeb-355bb8ef6380" />
+
+<img width="590" height="311" alt="creatures03 copy" src="https://github.com/user-attachments/assets/49a5238c-35c8-4685-add2-29c264884c99" />
+
+<img width="590" height="310" alt="creatures04 copy" src="https://github.com/user-attachments/assets/1d80c249-7bc4-4b7c-981e-e6c44a989a08" />
+
+<img width="590" height="309" alt="creatures05 copy" src="https://github.com/user-attachments/assets/c79c8af5-b0c3-4f54-ab71-e7ca94fcc767" />
+
+<img width="590" height="306" alt="creatures06 copy" src="https://github.com/user-attachments/assets/c17632d9-e980-496e-901e-62e435f357e0" />
+
+<img width="590" height="309" alt="creatures07 copy" src="https://github.com/user-attachments/assets/8262c5ad-b47b-474e-93bc-e0971afa31d0" />
+
+
+
+
 <img width="1170" height="614" alt="creatures01" src="https://github.com/user-attachments/assets/c75722fd-0836-4186-a49c-6fd07230edab" />
 
 <img width="1173" height="611" alt="creatures02" src="https://github.com/user-attachments/assets/40b6bd91-7026-495d-b628-840d80b59b4a" />
