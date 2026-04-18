@@ -32,21 +32,13 @@ In class we recreated the functionality of the online version of the game 'Boggl
 
 <img width="864" height="451" alt="Boggle01 copy" src="https://github.com/user-attachments/assets/35961896-e4d9-4d28-a2d5-4cb895d9eb8e" />
 
+<img width="932" height="478" alt="Boggle02 copy" src="https://github.com/user-attachments/assets/cdd2263b-5776-4c4d-b3e4-7eb7d24e6e1f" />
 
+<img width="920" height="446" alt="Boggle03 copy" src="https://github.com/user-attachments/assets/14ac435b-f108-466c-9cfd-25309a7cb48c" />
 
+<img width="930" height="486" alt="Boggle04 copy" src="https://github.com/user-attachments/assets/cf4a4327-fa92-46af-8cc0-68cca3ad4204" />
 
-
-
-
-<img width="1823" height="952" alt="Boggle01" src="https://github.com/user-attachments/assets/f79ed27e-6060-444f-9d32-4f17cbb79b9d" />
-
-<img width="1864" height="955" alt="Boggle02" src="https://github.com/user-attachments/assets/f2d3a800-39c4-440e-816a-59c890401e48" />
-
-<img width="1839" height="891" alt="Boggle03" src="https://github.com/user-attachments/assets/4b1a32ac-841d-4e90-a5a6-b17e1ca3e49d" />
-
-<img width="1865" height="974" alt="Boggle04" src="https://github.com/user-attachments/assets/3297089c-b7a3-488f-b5ea-8a913190dd0b" />
-
-<img width="1868" height="970" alt="Boggle05" src="https://github.com/user-attachments/assets/da8873a4-8952-4507-9d55-368bd636d74f" />
+<img width="930" height="483" alt="Boggle05 copy" src="https://github.com/user-attachments/assets/a3c43ea0-b7b9-456e-aed3-11920a92d0e2" />
 
 
 
