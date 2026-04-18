@@ -30,6 +30,14 @@ In class we recreated the functionality of the game 'Wordle'. The player types i
 In class we recreated the functionality of the online version of the game 'Boggle'. A grid of letters appears ont he screen when the game starts. The player types in a word they see in the grid and they hit the submit button. The word is checked against the list of words that can be found in the grid and a pop up tells the player if the word will win them a point or not. If it does, a pooint is added to their score and the word is added to the list of found words. If it is not, the player can try again. 
 
 
+<img width="864" height="451" alt="Boggle01 copy" src="https://github.com/user-attachments/assets/35961896-e4d9-4d28-a2d5-4cb895d9eb8e" />
+
+
+
+
+
+
+
 <img width="1823" height="952" alt="Boggle01" src="https://github.com/user-attachments/assets/f79ed27e-6060-444f-9d32-4f17cbb79b9d" />
 
 <img width="1864" height="955" alt="Boggle02" src="https://github.com/user-attachments/assets/f2d3a800-39c4-440e-816a-59c890401e48" />
