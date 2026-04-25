@@ -9,10 +9,23 @@ Any additional information about your work you want to include.
 Additional information can include technical details, UML, unique ways you solved the challenge, etc. This is important - the details you add will impact your grade.
 
 
-### API Application
-### Final Project - Farm Simulator
-### Wordle
 
+### Final Project - Farm Simulator
+
+
+### API Application
+
+We learned how to make an API call using an API key to the National Weather Service. We created a program that displays the city, temperature and kind of weather. I am most proud of learning how to use an API key. 
+
+<img width="325" height="206" alt="API1" src="https://github.com/user-attachments/assets/f14a8812-e3e4-4bd4-acf1-ffa7c39ed11d" />
+
+<img width="209" height="119" alt="API2" src="https://github.com/user-attachments/assets/09fea98d-7427-48a8-bf8b-6606f766dc2f" />
+
+
+
+
+
+### Wordle
 
 In class we recreated the functionality of the game 'Wordle'. The player types in a five letter word and the it is checked against a list of common five letter words and the randomly selected word that the player is trying to find. According to this check, the word the player typed appears on the screen with each letter having a background to match the accuracy fo the letter: gray for a letter that is not in the word, yellow for a letter that is in the word but is in the wrong position, and green for a letter that is in the word and is in the correct location. The player gets six tries to guess the word, represented by the grid on the screen. 
 
