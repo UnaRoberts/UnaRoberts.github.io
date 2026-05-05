@@ -10,7 +10,16 @@ Additional information can include technical details, UML, unique ways you solve
 
 
 
-### Final Project - Farm Simulator
+### Final Project - Cake Maker
+In Cake Maker the player's goal is to make a Mega Cake. They harvest wheat and butter to craft flour and butter, buy eggs and sugar from the store and trade with the trade to get strawberries, vanilla and chocolate. They craft a strawberry, vanilla and chocolate cake using these ingredients and then combine the three cakes to make the Mega Cake! They can sell their crops to the trader to have more money for the store. 
+
+I explored a lot of new features and techniques while making this game. I am most proud of making the game on that can be returned to - the player can exit the game and their name and inventory will be saved so they can open it and continue later on. When you finish the game it does not save your inventory or name so you can replay it. I was excited to add colors to the text on screen to indicate in the inventory what items the player had and which ones they did not (denoted by red and green). I also applied this in the recipe viewer, so the player does not have to go in between their inventory and the recipe - they can see what they do not have in red and what they do in green.  
+
+images - game play
+welcome back!
+
+
+
 
 
 ### API Application
