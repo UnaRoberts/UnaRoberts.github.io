@@ -13,10 +13,28 @@ Additional information can include technical details, UML, unique ways you solve
 ### Final Project - Cake Maker
 In Cake Maker the player's goal is to make a Mega Cake. They harvest wheat and butter to craft flour and butter, buy eggs and sugar from the store and trade with the trade to get strawberries, vanilla and chocolate. They craft a strawberry, vanilla and chocolate cake using these ingredients and then combine the three cakes to make the Mega Cake! They can sell their crops to the trader to have more money for the store. 
 
-I explored a lot of new features and techniques while making this game. I am most proud of making the game on that can be returned to - the player can exit the game and their name and inventory will be saved so they can open it and continue later on. When you finish the game it does not save your inventory or name so you can replay it. I was excited to add colors to the text on screen to indicate in the inventory what items the player had and which ones they did not (denoted by red and green). I also applied this in the recipe viewer, so the player does not have to go in between their inventory and the recipe - they can see what they do not have in red and what they do in green.  
+I explored a lot of new features and techniques while making this game. I am most proud of making the game on that can be returned to - the player can exit the game and their name and inventory will be saved so they can open it and continue later on. When you finish the game it does not save your inventory or name so you can replay it. I was excited to add colors to the text on screen to indicate in the inventory what items the player had and which ones they did not (denoted by red and green). I also applied this in the recipe viewer, so the player does not have to go in between their inventory and the recipe - they can see what they do not have in red and what they do in green. Finally, I used a timer so the crops took time to grow before the player could harvest them. 
 
-images - game play
-welcome back!
+<img width="944" height="526" alt="CakeMaker_01" src="https://github.com/user-attachments/assets/eea3c34b-35af-4d9b-aa47-abac1464ed9f" />
+Enter Name Screen
+
+<img width="945" height="526" alt="CakeMaker_02" src="https://github.com/user-attachments/assets/d92c6279-642c-4f73-bb49-01483c00acde" />
+Opening Screen
+
+<img width="946" height="529" alt="CakeMaker_03" src="https://github.com/user-attachments/assets/76aecea0-2ecb-4749-9233-c31b376834cc" />
+Harvesting wheat and milk
+
+<img width="944" height="527" alt="CakeMaker_04" src="https://github.com/user-attachments/assets/c65a9a65-5523-43c0-ab65-e52b33da5377" />
+Crafting Screen, showing the use of colored text to denote what a player has or does not have
+
+<img width="944" height="526" alt="CakeMaker_05" src="https://github.com/user-attachments/assets/e66d6aa9-3305-439f-bfbb-fc067ea9019f" />
+Trader Screen
+
+<img width="944" height="527" alt="CakeMaker_06" src="https://github.com/user-attachments/assets/2c6d5f81-9451-4c60-b8c3-5af001d84486" />
+Store Screen
+
+<img width="947" height="524" alt="CakeMaker_07" src="https://github.com/user-attachments/assets/74bd00bf-ebec-4110-9d91-aca61aff3e8c" />
+Welcome Back Screen
 
 
 
