@@ -2,13 +2,6 @@
 ## Code
 
 ## Programming 2
-Title
-Description (brief general description of the project)
-4-6 screenshots showing the functionality you are most proud of.
-Any additional information about your work you want to include.
-Additional information can include technical details, UML, unique ways you solved the challenge, etc. This is important - the details you add will impact your grade.
-
-
 
 ### Final Project - Cake Maker
 In Cake Maker the player's goal is to make a Mega Cake. They harvest wheat and butter to craft flour and butter, buy eggs and sugar from the store and trade with the trade to get strawberries, vanilla and chocolate. They craft a strawberry, vanilla and chocolate cake using these ingredients and then combine the three cakes to make the Mega Cake! They can sell their crops to the trader to have more money for the store. 
